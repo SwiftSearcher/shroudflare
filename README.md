@@ -1,3 +1,4 @@
+THIS IS NOT WORKING RN, USE KAZFRAME!
 # shroudflare
 1. go to [cloudflare](https://cloudflareapps.com/apps/google-translate/install)
 2. you should a search bar, click on it and put google.com there
